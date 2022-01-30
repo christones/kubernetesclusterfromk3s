@@ -50,7 +50,7 @@ A POD is the anatomic element within a cluster that provides the execution envir
  # Declarative approach in writing manifest files for deployment
  . Create and edit the manifest.yaml, deployment.yaml, service.yaml , namespace.yaml ... files
  
- . In vagrant super user mode , type 'kubectl apply -f manifest.yaml' or 'kubectl apply -f manifests/' ( creates a resource defined in the YAML manifests)
+ . In vagrant super user mode , type 'kubectl apply -f manifest.yaml' , 'kubectl apply -f deployment.yaml' ...( creates a resource defined in the YAML manifests)
  
  . Inspect all the resources within the namespace , type ' kubectl get all -n demo  '
  
