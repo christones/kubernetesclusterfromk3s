@@ -44,7 +44,7 @@ A POD is the anatomic element within a cluster that provides the execution envir
  ![img6](screenshots/img6.png)
  ![img7](screenshots/img7.png)
  
- # Kubernetes Reseources
+ # Kubernetes Ressources
  ![img8](screenshots/img8.png)
  
  # Declarative approach in writing manifest files for deployment
