@@ -23,13 +23,14 @@ A POD is the anatomic element within a cluster that provides the execution envir
 
 . Type 'Vagrant up' from the CLI to initialize the VagrantFile 
 . Edit the VagrantFile by indicating the virtualbox repository and version, setting it to be 'opensuse/Leap-15.2.x86_64' and '15.2.31.632'
-![img1](screenshots/img1.png)
+![image1](screenshots/img1.png)
 
 # Install and start VirtualBox 
 ![img2](screenshots/img2.png)
 
+
 # Connect to Vagrant with ssh 
-![img3](screenshots/img3.png)
+![image3](screenshots/img3.png)
 
 # Bootstrap the Kubernetes cluster from K3s 
  . Type 'curl -sfL https://get.k3s.io | sh -' from the vagrant@localhost prompt
