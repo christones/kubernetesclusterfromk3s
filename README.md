@@ -1,5 +1,5 @@
-# Kubernetes clustering from k3s and deployment of the packaged application
-Boostrapping a Kubernetes cluster with K3s and deploying the first Pod with declarative approach
+# Kubernetes clustering from k3s and deployment 
+Boostrapping a Kubernetes cluster with K3s and deploying the first Pod with declarative approach and deployment of the packaged application
 
 # Introduction
 
