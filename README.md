@@ -47,6 +47,11 @@ A POD is the anatomic element within a cluster that provides the execution envir
  # Kubernetes Ressources
  ![img8](screenshots/img8.png)
  
+ # Imperative approach 
+(deploy `python-helloworld` using the imperative approach) 
+
+ . kubectl create deploy python-helloworld --image=pixelpotato/python-helloworld:v1.0.0
+ 
  # Declarative approach in writing manifest files for deployment
  . Create and edit the manifest.yaml, deployment.yaml, service.yaml , namespace.yaml ... files
  
